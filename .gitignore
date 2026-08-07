@@ -22,3 +22,5 @@ $RECYCLE.BIN/
 
 # npm file
 node_modules/
+
+exclusion/text.css
